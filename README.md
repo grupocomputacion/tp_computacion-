@@ -1,4 +1,4 @@
-# tp_computacion_aplicada 
+# tp_computacion- 
 Trabajo Practico Computacion Aplicada 
 GRUPO 4 - INTEGRANTES :
 Ivan Diego Laborde
